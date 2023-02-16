@@ -33,8 +33,8 @@ Name: MIT<br />
 Further information about this licence can be found here; https://opensource.org/licenses/MIT<br />
 <br />
 ## Screenshots
-![Screenshot of Main Page](./public/assets/images/01-Main.png "Screenshot of Main Page")<br />
-![Screenshot of Add Notes](./public/assets/images/02-notes.png "Screenshot of Add Notes")<br />
+![Screenshot of Seed Data](./Main/assets/seed.png "Screenshot of Seed Data")<br />
+![Screenshot of App](./Main/assets/app.png "Screenshot of App")<br />
 <br />
 
 ## Questions
